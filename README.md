@@ -35,7 +35,7 @@ Focuses on the core logic and entity modeling:
 Expansion of the application with a graphical user interface and advanced social features:
 * **Post System**: Users can create posts with text and automated Date timestamps.
 * **Suggested Friends**: Implementation of the **Triadic Closure** principle, suggesting new friends based on mutual connections.
-* **Java Swing GUI**:
+* **Java GUI**:
     * **Login Screen**: Authentication by entering a username.
     * **User Page**: Displays user info, a chronological timeline of friends' posts, and suggested friends.
     * **Infection Window**: Displays a list of users requiring testing if the current user is infected.
@@ -44,9 +44,9 @@ Expansion of the application with a graphical user interface and advanced social
 
 ## 🛠️ Technologies & Principles
 * **Language**: Java 17+.
-* **UI Framework**: Java Swing.
+* **UI Framework**: Java .
 * **Design Principles**: Object-Oriented modeling (Inheritance, Polymorphism, Encapsulation).
-* **Tools**: Eclipse / IntelliJ IDEA.
+* **Tools**: Eclipse .
 
 ---
 
