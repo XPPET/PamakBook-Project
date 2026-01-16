@@ -49,14 +49,6 @@ The final version adds a centralized control layer:
 
 ---
 
-## 📁 Repository Organization
-* `Assignment_1_Console/`: Initial business logic.
-* `Assignment_2_GUI/`: Graphical interface and posts.
-* `Assignment_3_Final/`: Full integration with serialization and main dashboard.
-* `resources/`: Contains `t.csv` and other test datasets.
-
----
-
 <div align="center">
 
 **Maintainer:** [Christos Petridis](https://github.com/XPPET)  
